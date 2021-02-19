@@ -1,10 +1,9 @@
-int size = 500;
 public void setup()
 {
   size(700, 700);
 }
 public void draw() {
-  fractal(350, 350, size);
+  fractal(350, 350, 500);
   //fractals(700, 350, 150);
 }
 
